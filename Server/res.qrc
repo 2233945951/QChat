@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/clear.png</file>
+        <file>images/italic.png</file>
+        <file>images/save.png</file>
+        <file>images/send_file.png</file>
+        <file>images/under.png</file>
+        <file>images/QComboBox.png</file>
+        <file>images/emoji_down.png</file>
+        <file>images/emoji_up.png</file>
+        <file>images/mulit/black.jpg</file>
+        <file>images/mulit/exception_offline.png</file>
+        <file>images/mulit/monitering.png</file>
+        <file>images/mulit/offline.png</file>
+        <file>images/mulit/online.png</file>
+        <file>images/pic.png</file>
+        <file>py/sendAuthCode.py</file>
+    </qresource>
+</RCC>
